@@ -1,0 +1,44 @@
+body {
+    background-color: beige
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    background-color: coral;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    border: 1px;
+}
+
+.rojo {
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    font-size: 50px;
+    text-align: center;
+    line-height: 150px;
+}
+
+.azul {
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    font-size: 50px;
+    text-align: center;
+    line-height: 150px;
+}
+
+.verde {
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    font-size: 50px;
+    text-align: center;
+    line-height: 150px;
+}
